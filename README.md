@@ -21,7 +21,7 @@ The things I build are focused on performance first with a goal of being as ligh
 	<a href="https://www.instagram.com/_ittihadi/">
 		<img alt="instagram account" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a> 
 	<a href="https://mail.google.com/mail/u/?authuser=rittihadi@gmail.com">
-		<img alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+		<img alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&label=rittihadi@gmail.com&labelColor=D14836"/></a>
 </p>
 
 ### 🔧 Languages and Tools
